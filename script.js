@@ -3,7 +3,7 @@
 // });
 // （API_KEY には、"取得したAPIキー" を記述）
 // （API_KEY には、"取得したAPIキー" を記述）
-const API_KEY = "取得したAPIキー";
+const API_KEY = "170c3c6ebf00341650d54c09c12b032d";
 
 $(function(){
   $('#btn').on('click', function() {
