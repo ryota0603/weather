@@ -2,7 +2,6 @@
 //   イベント発生時に行われる処理
 // });
 // （API_KEY には、"取得したAPIキー" を記述）
-// （API_KEY には、"取得したAPIキー" を記述）
 const API_KEY = "170c3c6ebf00341650d54c09c12b032d";
 
 $(function(){
